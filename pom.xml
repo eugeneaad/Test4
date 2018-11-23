@@ -132,13 +132,7 @@
 		<version>1.0.0.RELEASE</version>
 	</dependency>
 
-	<!-- https://mvnrepository.com/artifact/org.apache.atlas/atlas-typesystem -->
-	<dependency>
-		<groupId>org.apache.atlas</groupId>
-		<artifactId>atlas-typesystem</artifactId>
-		<version>0.7-incubating</version>
-		<type>pom</type>
-	</dependency>
+
 
 	<!-- https://mvnrepository.com/artifact/com.mxgraph/jgraphx -->
 	<dependency>
